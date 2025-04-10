@@ -27,3 +27,13 @@ Results
 --------------------------------------------------------------------------------
 Discussion
 
+
+--------------------------------------------------------------------------------
+Dataset
+
+@inproceedings{fmow2018,
+  title={Functional Map of the World},
+  author={Christie, Gordon and Fendley, Neil and Wilson, James and Mukherjee, Ryan},
+  booktitle={CVPR},
+  year={2018}
+}
