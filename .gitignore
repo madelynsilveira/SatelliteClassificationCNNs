@@ -1,4 +1,11 @@
 /fmow_msrgb_dataset
 /fmow_msrgb_dataset_uncropped
+/fmow_msrgb_dataset_cropped
 /combined_fmow_msrgb_dataset
 logs/
+/best_model.h5
+/rn50_cropped_best.keras
+/vgg16_best.h5
+/vgg16_cropped_best.keras
+/resnet50_best.keras
+/cropped_vgg_diy.keras
