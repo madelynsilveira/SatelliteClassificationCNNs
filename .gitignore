@@ -10,3 +10,4 @@ logs/
 /resnet50_best.keras
 /cropped_vgg_diy.keras
 /groundtruth.tar.bz2
+/saved_models
