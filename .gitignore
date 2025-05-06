@@ -9,3 +9,4 @@ logs/
 /vgg16_cropped_best.keras
 /resnet50_best.keras
 /cropped_vgg_diy.keras
+/groundtruth.tar.bz2
