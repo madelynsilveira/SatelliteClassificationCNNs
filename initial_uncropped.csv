@@ -1,0 +1,5 @@
+Model,train accuracy,val accuracy,test accuracy,test loss,best epoch,total epochs,time overall (minute)
+VGG from scratch,0.1454,0.16364,0.1549,10743736,8,13,123
+VGG 16 pretrained,0.8208,0.53447,0.5524,293.7284,10,15,246
+VGG 19 pretrained,0.8174,0.5366,0.5385,167.6379,6,11,142
+ResNet 50 pretrained,0.8986,0.59249,0.5864,60.8384,9,14,160
