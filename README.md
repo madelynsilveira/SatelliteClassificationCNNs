@@ -10,6 +10,6 @@ https://drive.google.com/drive/u/0/folders/1EiPPrBzJXgOxxLaFJB2w_FVsvaJ5ThAm
 ## Slides
 https://www.canva.com/design/DAGk2qjdW8g/QJlwNq4BOkBM8FXBKhFAJA/edit?utm_content=DAGk2qjdW8g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-## Functional Map of the World (fMoW) RGB Dataset
-The data in this bucket represents the JPEG-compressed RGB version of the dataset that was created for the fMoW Challenge. 
+## Satellite Image Dataset
+We used the Functional Map of the World (fMoW) RGB Dataset. This data is the JPEG-compressed RGB version of the dataset that was created for the fMoW Challenge. 
 For more information about the files and folders included here, please see our [GitHub dataset page](https://github.com/fmow/dataset).
